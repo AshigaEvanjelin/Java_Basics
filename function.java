@@ -1,3 +1,5 @@
+//checking odd or even by using function
+
 class function{
     int evenorodd(int num){
         if(num%2==0){
