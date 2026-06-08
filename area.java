@@ -1,3 +1,5 @@
+// Java program to demonstrate method overloading
+
 class Area{
     void area(int side){
         System.out.println("Area of square is: " + side*side);
